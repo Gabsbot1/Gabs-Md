@@ -36,7 +36,7 @@ import { generateWAMessageFromContent } from '@whiskeysockets/baileys'
  } else { 
  await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail: imagen1, sourceUrl: 'stocazzo' }}}}}, {}) 
  }}} 
- handler.command = /^(hidetag|notificar|menziona)$/i 
+ handler.command = /^(hidetag|tag)$/i 
  handler.group = true 
  handler.admin = true 
  handler.botAdmin = true 

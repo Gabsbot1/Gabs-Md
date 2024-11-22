@@ -5,7 +5,7 @@ handler.before = async function (m, { conn, participants, groupMetadata }) {
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net'
     const listAdmin = groupAdmins.map(v => `- @${v.id.split('@')[0]}`).join('\n')
 
-    if (m.mentionedJid.length >= 20) {
+    if (m.mentionedJid.length >= 999999999999) {
         await conn.reply(m.chat, `> ⚠️ 𝐀𝐧𝐭𝐢-𝐓𝐚𝐠\n> ⓘ 𝐋'𝐮𝐭𝐞𝐧𝐭𝐞 𝐜𝐨𝐧 𝐓𝐚𝐠-𝐀𝐥𝐥 𝐞' 𝐬𝐭𝐚𝐭𝐨 𝐫𝐢𝐦𝐨𝐬𝐬𝐨.\n${listAdmin}`, m, { mentions: [...groupAdmins.map(v => v.id), owner] });
         await conn.groupParticipantsUpdate(m.chat, [m.sender], "remove");
     }

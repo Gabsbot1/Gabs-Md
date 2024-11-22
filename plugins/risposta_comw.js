@@ -46,7 +46,7 @@ const handler = async (m, { command, text }) => {
     `dovresti vergognarti di te stesso`,
     `vai a chiedere aiuto a qualcun altro`,
     `che peccato che tu abbia chiesto proprio a me`,
-    `spero che tu non sia serio`,
+    `spero che tu non sia serio`, 
     `mi stai facendo perdere la pazienza`,
     `spero che questa sia una battuta`,
     `hai provato a leggere le istruzioni?`,
@@ -211,7 +211,7 @@ const handler = async (m, { command, text }) => {
   m.reply(randomResponse.trim(), null, m.mentionedJid ? { mentions: m.mentionedJid } : {});
 };
 
-handler.customPrefix = /%/;
+handler.customPrefix = /π/;
 handler.command = new RegExp;
 
 export default handler;

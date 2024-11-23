@@ -54,7 +54,7 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
+global.packname = 'Gabs'
 global.author = '𝐌𝐝'
 
 //────────────────────────────

@@ -190,7 +190,7 @@ let handler = async (_0x20ff63, {
  💬 𝐌𝐞𝐬𝐬𝐚𝐠𝐠𝐢: ${ global['db'][_0x36e21b(0x201)][_0x36e21b(0x1f4)][_0x1b6eab][_0x36e21b(0x1f1)] }
  ${ _0x2b2c4e ? '🤬\x20𝐁𝐞𝐬𝐭𝐞𝐦𝐦𝐢𝐞:\x20' + global['db'][_0x36e21b(0x201)][_0x36e21b(0x1f4)][_0x1b6eab][_0x36e21b(0x1ab)] + '\x0a' : '' }${ _0x2b2c4e ? '\x20' : '' }${ _0xee864 } 𝐖𝐚𝐫𝐧: ${ global['db'][_0x36e21b(0x201)][_0x36e21b(0x1f4)][_0x1b6eab][_0x36e21b(0x1e6)] } / 3
  ${ global['db']['data']['users'][_0x1b6eab]['muto'] ? _0x36e21b(0x1fa) : '' }${ global['db'][_0x36e21b(0x201)]['users'][_0x1b6eab][_0x36e21b(0x20a)] ? '\x20' : '' }${ global['db'][_0x36e21b(0x201)][_0x36e21b(0x1f4)][_0x1b6eab][_0x36e21b(0x1fd)] ? _0x36e21b(0x1cd) : '' }${ global['db']['data']['users'][_0x1b6eab]['banned'] ? '\x20' : '' }${ _0x4b98ff ? _0x36e21b(0x1da) + (global['db']['data'][_0x36e21b(0x1f4)][_0x1b6eab][_0x36e21b(0x212)] || -0x11f7 + 0x1d2 * -0x11 + 0x30e9) + '\x0a' : '' }${ _0x4b98ff ? '\x20' : '' }${ _0x4a9156 ? '' + _0x4a9156 : '' }
-──────────────`, _0x3c9725 = _0x3ecb5c + _0x36e21b(0x1c5) + _0x35577c + _0x36e21b(0x1e5) + _0xe8daa + '\x0a>\x20🟢\x20𝐀𝐭𝐭𝐢𝐯𝐢𝐭𝐚\x27\x20:\x20' + _0x38acae + _0x36e21b(0x1d7) + global['db']['data'][_0x36e21b(0x1f4)][_0x1b6eab]['messaggi'] + '\x0a>\x20✅️\x20𝐒𝐜𝐚𝐫𝐢𝐜𝐚\x20𝐢𝐥\x20𝐛𝐨𝐭\x20:\x20https://github.com/MoonContentCreator/BixbyBot-Md\x0a──────────────', _0xcb5eda = _0x1fa4f4['gzNrs'](_0x4806c5[_0x36e21b(0x1cf)][_0x36e21b(0x1df)], _0x1b6eab) ? _0x4a0582 : _0x4a0582, _0x4e710e = _0x1fa4f4[_0x36e21b(0x1d9)](_0x4806c5[_0x36e21b(0x1cf)]['jid'], _0x1b6eab) ? '' + _0x18e522 : '' + _0x18e522, _0x2f367b = global['db']['data'][_0x36e21b(0x1d6)] || _0x36e21b(0x1c8);
+──────────────`, _0x3c9725 = _0x3ecb5c + _0x36e21b(0x1c5) + _0x35577c + _0x36e21b(0x1e5) + _0xe8daa + '\x0a>\x20🟢\x20𝐀𝐭𝐭𝐢𝐯𝐢𝐭𝐚\x27\x20:\x20' + _0x38acae + _0x36e21b(0x1d7) + global['db']['data'][_0x36e21b(0x1f4)][_0x1b6eab]['messaggi'] + '\x0a>\x20✅️\x20Scarica\x20il\x20bot\x20:\x20 Facendo .installa \x0a──────────────', _0xcb5eda = _0x1fa4f4['gzNrs'](_0x4806c5[_0x36e21b(0x1cf)][_0x36e21b(0x1df)], _0x1b6eab) ? _0x4a0582 : _0x4a0582, _0x4e710e = _0x1fa4f4[_0x36e21b(0x1d9)](_0x4806c5[_0x36e21b(0x1cf)]['jid'], _0x1b6eab) ? '' + _0x18e522 : '' + _0x18e522, _0x2f367b = global['db']['data'][_0x36e21b(0x1d6)] || _0x36e21b(0x1c8);
     _0x4806c5['sendMessage'](_0x20ff63['chat'], {
         'text': _0x1b6eab === _0x4806c5[_0x36e21b(0x1cf)][_0x36e21b(0x1df)] ? _0x3c9725 : _0xfc5333,
         'contextInfo': {
@@ -307,7 +307,7 @@ function _0x5b83() {
         'now',
         'command',
         'https://telegra.ph/file/2f38b3fd9cfba5935b496.jpg',
-        '120363175463922716@newsletter',
+        '12345678@newsletter',
         'uptime',
         'lhOtP',
         'LAdVG',
@@ -321,11 +321,10 @@ function _0x5b83() {
         'hex',
         'mentionedJid',
         '56FFLuPo',
-        'https://t.me/AssistenzaBixbyBot',
         '\x0a>\x20✍️\x20𝐏𝐫𝐞𝐟𝐢𝐬𝐬𝐨\x20:\x20*',
         'Halo',
         'QJIco',
-        '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝\x20🔮'
+        'Gabs-Md\x20🔮'
     ];
     _0x5b83 = function () {
         return _0x29281d;
@@ -340,7 +339,9 @@ function _0x15b8(_0x4fd582, _0x551d5e) {
         return _0x44e347;
     }, _0x15b8(_0x4fd582, _0x551d5e);
 }
-function formatInstagramValue(_0x1ff6f7) {
+function formatInstagramValue(_0
+                              
+                              1ff6f7) {
     const _0x36408e = _0x3e3258, _0x5715a1 = {
             'EkufQ': function (_0x4fa28e, _0x4bb052) {
                 return _0x4fa28e / _0x4bb052;
